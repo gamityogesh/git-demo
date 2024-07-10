@@ -1,5 +1,6 @@
 # instal
+#<br>
 # git init
-#git add .
+#git add .<br>
 #git commit -m "message"
 
